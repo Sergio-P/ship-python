@@ -59,3 +59,4 @@ class Ship(pygame.sprite.Sprite):
 	def delete(self):
 		self.kill()
 
+
