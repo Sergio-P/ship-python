@@ -1,12 +1,14 @@
 Ship-Python
 ====
-Ship python is a pygame based game about a ship that could fire differents bullets to destroy all enemies in a level.
+Ship python is a pygame based game. You may control a ship that could fire 5 differents bullets in order to destroy all enemies.
 
-When it destroys all enemies game starts the next level.
+When you destroys all enemies, the next level starts.
 
-Different kind of enemies such as asteroid or other ships that attack you or avoid your bullets.
+Different kind of enemies such as asteroid or other ships may appear. some of them have AI and can fire you, or even avoid your bullets!
 
-Still in alhpa version.
+Bullets packages can be purchased when you pass an aumont of levels, collect coins by destroying enemies, and you will buy differents items in store.
+
+[Actually still in development]
 
 ==
 Developed by Sergio Peñafiel - 2013
