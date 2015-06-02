@@ -8,7 +8,7 @@ Different kind of enemies such as asteroid or other ships may appear. some of th
 
 Bullets packages can be purchased when you pass an aumont of levels, collect coins by destroying enemies, and you will buy differents items in store.
 
-[Actually still in development]
+:information_source: Actually still in development
 
 ==
 Developed by Sergio Peñafiel - 2013
